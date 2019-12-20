@@ -1,0 +1,23 @@
+{
+    "name": "app-service-hello-world",
+    "description": "Simple Hello World Node.js sample for Azure App Service",
+    "version": "0.0.1",
+    "private": true,
+    "license": "MIT",
+    "author": "Microsoft",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "babel-preset-latest": "^6.24.1",
+        "express": "^4.17.1",
+        "firebase-admin": "^8.8.0",
+        "telegraf": "^3.34.1",
+        "@babel/cli": "^7.7.5",
+        "@babel/core": "^7.7.5",
+        "@babel/preset-env": "^7.7.6",
+        "@babel/register": "^7.7.4",
+        "babel-plugin-transform-runtime": "^6.23.0"
+    },
+    "devDependencies": {}
+}

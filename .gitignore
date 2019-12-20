@@ -1,0 +1,7 @@
+.vscode
+node_modules
+.deployment
+.DS_Store
+secret-santa-7f246-firebase-adminsdk-rd0vh-9308100421.json
+package-lock.json
+process.json
